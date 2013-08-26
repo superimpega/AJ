@@ -76,11 +76,11 @@ function join()
 function CommandCalled(value)
 	{
 		
-	if (value=="/jq")
+	if (value=="/1")
 		{
 		join();
 		}
-	if (value=="/sjq")
+	if (value=="/2")
 		{
 		cancelJoin();
 		}
